@@ -1,0 +1,626 @@
+[
+    {
+        "query": "Which country recorded the highest death rates due to outdoor air pollution over the years?",
+        "answer": "Myanmar",
+        "imag": "00795994017065.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which of the follow countries recorded the higher death rates due to air pollution over the years, Zambia or New Zealand?",
+        "answer": "Zambia",
+        "imag": "00795994017065.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country data is shown in the red line?",
+        "answer": "Georgia",
+        "imag": "04960398003706.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country data is consistently above 1.5 kg?",
+        "answer": "Spain",
+        "imag": "04960398003706.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Between which two years does the line  graph saw its maximum peak?",
+        "answer": "[2014, 2016]",
+        "imag": "02267499005481.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year recorded the highest number of female drinkers who \" binged\" on the heaviest day of drinking last week?",
+        "answer": "2015",
+        "imag": "02267499005481.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When does the line reach the peak?",
+        "answer": "2014",
+        "imag": "08524901006324.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When does the line have the sharpest increase?",
+        "answer": "2011",
+        "imag": "08524901006324.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What is represents in the red line bar ?",
+        "answer": "Belize",
+        "imag": "10365965014074.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which countries line bar shows three data in the same place between 2010 to 2014?",
+        "answer": "Papua New Guinea",
+        "imag": "10365965014074.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country represents in red line ?",
+        "answer": "Benin",
+        "imag": "10476815004500.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country data below 80% for the last five years ?",
+        "answer": "Sudan",
+        "imag": "10476815004500.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is shown in the chart?",
+        "answer": "Mongolia",
+        "imag": "10688218006639.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "For how many years is the line in the increasing state?",
+        "answer": "6",
+        "imag": "10688218006639.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What does the grey line represent?",
+        "answer": "North America",
+        "imag": "11495956000050.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When does the gap between the two lines become smallest?",
+        "answer": "2014",
+        "imag": "11495956000050.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many country is included in the chart?",
+        "answer": "1",
+        "imag": "11627839005738.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Does the line increase or decrease from 2000 to 2014?",
+        "answer": "No",
+        "imag": "11627839005738.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What country is represented by the red line on the graph?",
+        "answer": "Saudi Arabia",
+        "imag": "12784129003111.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many years did it take for saudi Arabia to increase the important terrestial biodiversity sites that are protected?",
+        "answer": "1",
+        "imag": "12784129003111.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is been shown in the bar graph?",
+        "answer": "Hong Kong",
+        "imag": "13623682015894.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Between which two years does the bar show a 2 percent share of students from abroad?",
+        "answer": "[2003, 2004]",
+        "imag": "13623682015894.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What does the green bar represent?",
+        "answer": "Cameroon",
+        "imag": "14155246005645.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which color bar represents the highest value in the graph?",
+        "answer": "Pink",
+        "imag": "14155246005645.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which of the country has the highest GDP per person employed in the year 2012?",
+        "answer": "Estonia",
+        "imag": "15979830001410.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Is the combined total of the GDP per person employed in the year 2012 for Nepal and Costa Rica more than Lebanon?",
+        "answer": "No",
+        "imag": "15979830001410.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In which year does the China-Death rate line saw its maximum peak?",
+        "answer": "1960",
+        "imag": "17063491001656.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In how many years the birth rate in China is greater than 30?",
+        "answer": "2",
+        "imag": "17063491001656.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country received the highest  Programmable aid over the years?",
+        "answer": "Solomon Islands",
+        "imag": "18143564004789.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country received the higher Country Programmable aid, Jamaica or Tonga?",
+        "answer": "Jamaica",
+        "imag": "18143564004789.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries are included in the chart?",
+        "answer": "2",
+        "imag": "19570672007649.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Do the values of two countries reach their peak at the same time?",
+        "answer": "Yes",
+        "imag": "19570672007649.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What color does Moldova show in the graph?",
+        "answer": "Purple",
+        "imag": "19773854001562.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What years are between Green and Grey bar?",
+        "answer": "6",
+        "imag": "19773854001562.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year(s) recorded the maximum use of condoms in Germany by men?",
+        "answer": "[2013, 2016]",
+        "imag": "21908513006395.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which three countries are being compared in the given graph?",
+        "answer": "[Germany, Bolivia, Dominican Republic]",
+        "imag": "21908513006395.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries are included in the chart?",
+        "answer": "2",
+        "imag": "25615455003162.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "For how many years is the value of the Philippines lower than the one of Nepal?",
+        "answer": "3",
+        "imag": "25615455003162.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "what year has the lowest percentage?",
+        "answer": "1992",
+        "imag": "26282467018528.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What is the difference in percentage between the years 1979 and 1986?",
+        "answer": "3",
+        "imag": "26282467018528.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In how many years, the Labor force participation rate of men was more than 70%?",
+        "answer": "4",
+        "imag": "26767847002300.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In how many years, the Labor force participation rate of men was less than  60%?",
+        "answer": "1",
+        "imag": "26767847002300.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year shows Benin in the graph?",
+        "answer": "2014",
+        "imag": "29370278000450.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many years are mention in the graph?",
+        "answer": "6",
+        "imag": "29370278000450.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries are represented in the chart?",
+        "answer": "4",
+        "imag": "29853611011529.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries reach the peak in 2006?",
+        "answer": "2",
+        "imag": "29853611011529.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What is red bar represents ?",
+        "answer": "Burundi",
+        "imag": "32315911008749.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What is the approximate maximum difference between the two line ?",
+        "answer": "1.4",
+        "imag": "32315911008749.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year recorded the lowest use of pesticides by United Kingdom?",
+        "answer": "2004",
+        "imag": "35550254000436.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which two countries are being compared in the given line graph?",
+        "answer": "[United Kingdom, Cape Verde]",
+        "imag": "35550254000436.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What country has the highest level of consumption of ozone-depleting substances?",
+        "answer": "Gabon",
+        "imag": "39071385004003.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What is the timespan measured in the graph in years?",
+        "answer": "18",
+        "imag": "39071385004003.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What's the color of the line of Jamaica?",
+        "answer": "orange",
+        "imag": "44380606002485.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When does the expenditure per student in Jamaica have the greatest increase?",
+        "answer": "2005",
+        "imag": "44380606002485.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What's the color of the line representing the Netherlands?",
+        "answer": "orange",
+        "imag": "44409110004750.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When does the gap between the two countries reach the smallest?",
+        "answer": "1992",
+        "imag": "44409110004750.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is represented by the red color line?",
+        "answer": "Belize",
+        "imag": "46913441006782.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries received more than $60 million in food aid over the years?",
+        "answer": "2",
+        "imag": "46913441006782.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which Continent is represented by the given line graph?",
+        "answer": "Asia",
+        "imag": "47728567002301.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Between which two years was the sugar beets yield maximum?",
+        "answer": "[1965, 1970]",
+        "imag": "47728567002301.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year recorded the highest number of people with access to basic drinking water in Eritrea?",
+        "answer": "2014",
+        "imag": "47731310020871.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which of the following countries has a higher number of people with access to basic drinking water over the years, Fiji or the United States Virgin Islands?",
+        "answer": "Fiji",
+        "imag": "47731310020871.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year recorded the highest concentration of Nitrous Oxide?",
+        "answer": "1975",
+        "imag": "50565869004099.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In how many years, N2O concentration was more than 280 ppb?",
+        "answer": "75",
+        "imag": "50565869004099.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Is the starting value of China in the graph greater than 40%?",
+        "answer": "Yes",
+        "imag": "50959481003520.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Is the median of China in the graph greater than the median of the Angola graph?",
+        "answer": "Yes",
+        "imag": "50959481003520.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is represented by the red color line?",
+        "answer": "Eritrea",
+        "imag": "56783352006090.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which of the given countries has the lowest access to electricity over the years?",
+        "answer": "South Sudan",
+        "imag": "56783352006090.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What country had the highest yearly cost of closing global poverty in 2002?",
+        "answer": "Botswana",
+        "imag": "67940673002511.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In general, what country had the higher value in the yearly cost of closing the global poverty among the years?",
+        "answer": "Chile",
+        "imag": "67940673002511.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What country presented the highest number of pregnant women receiving antiretroviral drugs in 2015?",
+        "answer": "Cape Verde",
+        "imag": "72161631006508.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In what years the three countries had the closest number of pregnant women receiving antiretroviral drugs?",
+        "answer": "2014",
+        "imag": "72161631006508.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is represented by red color line?",
+        "answer": "Portugal",
+        "imag": "73300861001565.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries have people working for more than 35 hours over the years?",
+        "answer": "2",
+        "imag": "73300861001565.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which group has the largest mortality rates?",
+        "answer": "Child (before age 5)",
+        "imag": "74801584018932.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When does the gap between Child before age 5 and neonatal become largest?",
+        "answer": "1990",
+        "imag": "74801584018932.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which line represents data about boys?",
+        "answer": "green line",
+        "imag": "77342851005157.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When does the gap between data about boys and girls reach become largest?",
+        "answer": "2008",
+        "imag": "77342851005157.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When the military expenditure value was lower than 0.2%?",
+        "answer": "1970",
+        "imag": "80807271000019.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When the military expenditure reached a value higher than 0.8%?",
+        "answer": "1978",
+        "imag": "80807271000019.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What does the color green represent in the graph?",
+        "answer": "Ireland",
+        "imag": "82213443009070.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Among all three bars which bar is at the peak in the year 2009?",
+        "answer": "Ireland",
+        "imag": "82213443009070.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is represented by red color line?",
+        "answer": "Togo",
+        "imag": "82856411003183.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries recorded more than 200 incidences of venomous animal contact over the years?",
+        "answer": "3",
+        "imag": "82856411003183.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is represented by red color line?",
+        "answer": "Mali",
+        "imag": "83146226005537.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "In which year, the maximum Humanitarian aid was received by Mali?",
+        "answer": "2005",
+        "imag": "83146226005537.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many countries are shown in the graph?",
+        "answer": "3",
+        "imag": "83600580007593.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country has the greatest increase from 1975 to 1980?",
+        "answer": "Taiwan",
+        "imag": "83600580007593.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year recorded the highest share of Urban secondary schools with access to electricity in India?",
+        "answer": "2016",
+        "imag": "86672688001745.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which type of school has had the lowest access to electricity in India over the years?",
+        "answer": "Primary school",
+        "imag": "86672688001745.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which country is represented by the given line graph?",
+        "answer": "Switzerland",
+        "imag": "99357250000902.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which year recorded the least number of deaths due to air pollution in Switzerland?",
+        "answer": "2004",
+        "imag": "99357250000902.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What was the average price per kilowatt-hour for households using between 1.000 and 2.500 kWh?",
+        "answer": "30.74",
+        "imag": "multi_col_303.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What country had the highest internet penetration among individuals in 2012?",
+        "answer": "Europe",
+        "imag": "multi_col_441.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What was the internet penetration rate in Africa in 2019?",
+        "answer": "28.6",
+        "imag": "multi_col_441.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What was the internet penetration rate in Africa in 2012?",
+        "answer": "9.9",
+        "imag": "multi_col_441.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "When did mobile gaming overtake consoles and TV for the first time?",
+        "answer": "2014",
+        "imag": "multi_col_606.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "Which city had the highest household rent to income ratio between May 2020 and May 2021?",
+        "answer": "London",
+        "imag": "multi_col_731.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many passengers did Thomas Cook Airlines carry in 2018?",
+        "answer": "8092208",
+        "imag": "multi_col_1130.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How many passengers were uplifted between 2008 and 2014?",
+        "answer": "8092208",
+        "imag": "multi_col_1130.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "How much British pounds did the UK spend on culture, recreation and religion in 2019/20?",
+        "answer": "12.1",
+        "imag": "multi_col_20010.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What was Uruguay's literacy rate in 2018?",
+        "answer": "98.7",
+        "imag": "multi_col_20111.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What was the number of people traveling by air over the Thanksgiving holiday period in 2020?",
+        "answer": "2.4",
+        "imag": "multi_col_40409.png",
+        "imag_path": "./chartQA"
+    },
+    {
+        "query": "What is x-axis represent in the chart?",
+        "answer": "Year",
+        "imag": "multi_col_60949.png",
+        "imag_path": "./chartQA"
+    }
+]

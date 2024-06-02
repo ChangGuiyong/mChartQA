@@ -1,0 +1,2900 @@
+[
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "29567.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the bottom ?",
+        "answer": "4",
+        "imag": "13008.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the right ?",
+        "answer": "3",
+        "imag": "25881.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the right in Ages 15-20 represents ?",
+        "answer": "Portugal",
+        "imag": "31604.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "30514.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "9",
+        "imag": "8662.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "539.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the top ?",
+        "answer": "3",
+        "imag": "10467.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "15",
+        "imag": "25190.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "5",
+        "imag": "27535.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the bottom ?",
+        "answer": "4",
+        "imag": "14534.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the left ?",
+        "answer": "4",
+        "imag": "31654.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "14257.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "11566.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "5.0",
+        "imag": "17814.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "17939.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the bottom ?",
+        "answer": "4",
+        "imag": "14680.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "6",
+        "imag": "6639.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "6",
+        "imag": "30404.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "20.0",
+        "imag": "9716.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in Japan represents ?",
+        "answer": "1980",
+        "imag": "11638.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "14713.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the bottom ?",
+        "answer": "4",
+        "imag": "14947.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the right in Italy represents ?",
+        "answer": "1980",
+        "imag": "23934.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "7463.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Country",
+        "imag": "24708.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "3",
+        "imag": "19436.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the left in Investment in Transport represents ?",
+        "answer": "Brazil",
+        "imag": "28371.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "8",
+        "imag": "14366.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Country",
+        "imag": "9080.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the top ?",
+        "answer": "3",
+        "imag": "11325.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the bottom ?",
+        "answer": "2",
+        "imag": "6894.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 3rd group of bars from the top ?",
+        "answer": "South Asia",
+        "imag": "8293.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "Yes",
+        "imag": "16665.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "20.0",
+        "imag": "19394.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "23041.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "23748.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "20.0",
+        "imag": "30850.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "30139.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Earning(%)",
+        "imag": "27415.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the top ?",
+        "answer": "2",
+        "imag": "7398.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "6",
+        "imag": "12059.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "31158.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 1st group of bars from the left ?",
+        "answer": "2001",
+        "imag": "28742.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Amount (in $)",
+        "imag": "28546.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "25016.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "23366.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "16862.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "20.0",
+        "imag": "5590.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "25080.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "6",
+        "imag": "5899.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "9",
+        "imag": "11379.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the bottom in 2000 represents ?",
+        "answer": "Male",
+        "imag": "7337.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "26429.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "31239.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "30657.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "17252.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "27574.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "15",
+        "imag": "24894.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the top in Dependency ratio(young) represents ?",
+        "answer": "Paraguay",
+        "imag": "11070.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "21528.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "29810.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "No",
+        "imag": "7838.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Country",
+        "imag": "24321.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Unemployed and educated male labor force (% of population)",
+        "imag": "10328.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "16351.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the top ?",
+        "answer": "3",
+        "imag": "7827.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the right ?",
+        "answer": "4",
+        "imag": "29547.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the right in 2010 represents ?",
+        "answer": "Zambia",
+        "imag": "31231.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Number of passengers carried",
+        "imag": "15833.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Mortality Rate (per 1000 live birth or children)",
+        "imag": "26443.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "No",
+        "imag": "21232.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "23070.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Education levels",
+        "imag": "12141.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "8164.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Aid flow (current US$)",
+        "imag": "4089.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in 2002 represents ?",
+        "answer": "Egypt, Arab Rep.",
+        "imag": "25354.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "3",
+        "imag": "9171.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in 2007 represents ?",
+        "answer": "High income",
+        "imag": "11895.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "20000000000.0",
+        "imag": "8028.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "9472.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the right in 2010 represents ?",
+        "answer": "Jordan",
+        "imag": "24579.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "2867.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "29902.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Agricultural emissions (as % of total)",
+        "imag": "17451.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "31019.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "0.5",
+        "imag": "651.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "7820.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Years",
+        "imag": "3431.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in 1993 represents ?",
+        "answer": "Honduras",
+        "imag": "9663.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "12183.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "1",
+        "imag": "21826.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the median poverty gap at national poverty lines ?",
+        "answer": "3.5",
+        "imag": "21931.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "5",
+        "imag": "16052.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "25298.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "7768.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the left ?",
+        "answer": "4",
+        "imag": "29489.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "26365.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in Norway represents ?",
+        "answer": "2005",
+        "imag": "14668.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "11406.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "3",
+        "imag": "19079.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "15",
+        "imag": "8257.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "31082.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "20.0",
+        "imag": "12986.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Area of land (in hectares)",
+        "imag": "31867.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "25254.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the top ?",
+        "answer": "4",
+        "imag": "12972.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Balance of Payment (as % of commercial service imports)",
+        "imag": "1320.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in Guatemala represents ?",
+        "answer": "1992",
+        "imag": "11722.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "6",
+        "imag": "24490.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the left ?",
+        "answer": "4",
+        "imag": "29384.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "7653.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "31835.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "18315.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "24687.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "12231.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "12433.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "13359.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 4th bar from the right in 2012 represents ?",
+        "answer": "Europe(developing only)",
+        "imag": "30586.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the top in 1989 represents ?",
+        "answer": "Central African Republic",
+        "imag": "11111.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "31498.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "8917.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the top in Armenia represents ?",
+        "answer": "2005",
+        "imag": "11355.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in 2011 represents ?",
+        "answer": "Domestic liabilities",
+        "imag": "7578.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 2nd group of bars from the left ?",
+        "answer": "Maunufacturing",
+        "imag": "28970.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "3",
+        "imag": "24496.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the left ?",
+        "answer": "4",
+        "imag": "30891.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the top ?",
+        "answer": "4",
+        "imag": "14591.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "30726.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "10.0",
+        "imag": "19482.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "Yes",
+        "imag": "25704.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Earning(%)",
+        "imag": "1126.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "12657.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "9",
+        "imag": "25852.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the left ?",
+        "answer": "4",
+        "imag": "30360.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "4",
+        "imag": "21077.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in 1979 represents ?",
+        "answer": "Philippines",
+        "imag": "22786.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 6th tick from the top ?",
+        "answer": "3",
+        "imag": "10860.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "20",
+        "imag": "29102.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "29710.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "14447.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "6806.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "9247.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "21150.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "764.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "500000.0",
+        "imag": "29371.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "26509.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "26652.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "12787.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "7687.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the right in 2000 represents ?",
+        "answer": "Nitrous oxide emissions",
+        "imag": "22755.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the right in Canada represents ?",
+        "answer": "1962",
+        "imag": "26315.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 2nd group of bars from the left ?",
+        "answer": "2000",
+        "imag": "24770.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the bottom ?",
+        "answer": "4",
+        "imag": "12248.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Rate(per 1000 people)",
+        "imag": "25522.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "23946.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the right in 2013 represents ?",
+        "answer": "Macedonia",
+        "imag": "25454.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the top in Sub-Saharan Africa (all income levels) represents ?",
+        "answer": "1997",
+        "imag": "7974.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 4th bar from the left in 2009 represents ?",
+        "answer": "Turkey",
+        "imag": "29273.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "2",
+        "imag": "30102.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the bottom in Ages 0-14 represents ?",
+        "answer": "St. Lucia",
+        "imag": "13856.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "22489.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "12469.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the right in Taxes on income represents ?",
+        "answer": "Uganda",
+        "imag": "28556.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Years",
+        "imag": "18066.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "4",
+        "imag": "20807.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "11994.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "27508.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "23381.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "24157.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the top ?",
+        "answer": "2",
+        "imag": "7399.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "8222.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "6048.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the right ?",
+        "answer": "4",
+        "imag": "31515.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "3",
+        "imag": "17961.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "1487.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "26566.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "26121.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "22232.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "27947.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Employment (as % of total employment)",
+        "imag": "17454.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "9097.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the bottom in 2007 represents ?",
+        "answer": "Uzbekistan",
+        "imag": "10224.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "12933.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "15382.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the right ?",
+        "answer": "4",
+        "imag": "29071.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Armed forces personnel",
+        "imag": "9574.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "5",
+        "imag": "6675.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "16585.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "2",
+        "imag": "17685.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "12944.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in 2000 represents ?",
+        "answer": "Female",
+        "imag": "6859.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "9812.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "150.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "4",
+        "imag": "21207.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the top in Liberia represents ?",
+        "answer": "1993",
+        "imag": "8953.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Number of power outages",
+        "imag": "22149.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "711.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "6385.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "26954.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Mortality Rate (per 1000 live birth or children)",
+        "imag": "7882.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 2nd group of bars from the left ?",
+        "answer": "Brazil",
+        "imag": "26305.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "20756.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "3",
+        "imag": "19635.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "No",
+        "imag": "29942.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "29946.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "5",
+        "imag": "29401.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "13365.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 2nd group of bars from the top ?",
+        "answer": "Luxembourg",
+        "imag": "9739.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "4820.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "9723.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the left ?",
+        "answer": "4",
+        "imag": "29687.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Employer",
+        "imag": "23305.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "6",
+        "imag": "7683.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "28271.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the top ?",
+        "answer": "3",
+        "imag": "8540.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "23476.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the left in 1973 represents ?",
+        "answer": "Mauritius",
+        "imag": "31542.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "15800.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "1.0",
+        "imag": "28477.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 1st group of bars from the left ?",
+        "answer": "Chad",
+        "imag": "29400.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 5th tick from the right ?",
+        "answer": "3",
+        "imag": "24693.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 1st group of bars from the top ?",
+        "answer": "Japan",
+        "imag": "9864.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "0.2",
+        "imag": "3764.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "18",
+        "imag": "11077.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "26759.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "13063.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "6442.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "1",
+        "imag": "8599.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "13542.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "2",
+        "imag": "14783.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "15040.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Number of neonatal deaths",
+        "imag": "19421.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the right in Singapore represents ?",
+        "answer": "2005",
+        "imag": "26843.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in Bolivia represents ?",
+        "answer": "2006",
+        "imag": "31062.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the left ?",
+        "answer": "4",
+        "imag": "29538.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "6114.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "2",
+        "imag": "8194.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "18862.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 3rd group of bars from the top ?",
+        "answer": "Denmark",
+        "imag": "13265.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in 2011 represents ?",
+        "answer": "Indonesia",
+        "imag": "8636.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the top in Eritrea represents ?",
+        "answer": "Urban",
+        "imag": "7174.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "6",
+        "imag": "32393.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 4th bar from the left in Miscellaneous expenses represents ?",
+        "answer": "Kuwait",
+        "imag": "28980.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "28724.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "6505.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "29474.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "17371.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the left ?",
+        "answer": "2",
+        "imag": "22696.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "33089.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 4th group of bars from the left ?",
+        "answer": "Ecuador",
+        "imag": "27138.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in Sudan represents ?",
+        "answer": "2006",
+        "imag": "29700.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the top ?",
+        "answer": "4",
+        "imag": "13512.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "19",
+        "imag": "13327.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 5th tick from the bottom ?",
+        "answer": "2",
+        "imag": "6466.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "10.0",
+        "imag": "9775.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "18609.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "2",
+        "imag": "7698.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "11847.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 5th tick from the top ?",
+        "answer": "4",
+        "imag": "13671.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the left ?",
+        "answer": "3",
+        "imag": "25363.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the bottom in 2011 represents ?",
+        "answer": "Guinea",
+        "imag": "6252.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "10212.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "27673.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the left ?",
+        "answer": "2",
+        "imag": "23058.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the right ?",
+        "answer": "4",
+        "imag": "31254.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 1st group of bars from the top ?",
+        "answer": "Fixed telephone",
+        "imag": "9702.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "12",
+        "imag": "9293.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "5",
+        "imag": "9069.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "10929.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "3",
+        "imag": "19437.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 5th tick from the bottom ?",
+        "answer": "2",
+        "imag": "5645.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the bottom in Philippines represents ?",
+        "answer": "1961",
+        "imag": "8871.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "12910.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "26786.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the bottom in South Asia represents ?",
+        "answer": "2003",
+        "imag": "8264.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "8630.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "50.0",
+        "imag": "10799.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the top ?",
+        "answer": "4",
+        "imag": "12649.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "29235.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 1st group of bars from the left ?",
+        "answer": "Netherlands",
+        "imag": "28472.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "21973.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "3",
+        "imag": "18120.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "6188.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Year",
+        "imag": "8570.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "8845.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the line corresponding to Iran intersect with the line corresponding to Indonesia ?",
+        "answer": "No",
+        "imag": "19280.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "25749.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "25159.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in Bangladesh represents ?",
+        "answer": "Male",
+        "imag": "23283.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "10408.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "22911.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "6",
+        "imag": "26631.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "19134.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the top ?",
+        "answer": "4",
+        "imag": "14020.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Years",
+        "imag": "24671.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "29961.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "25372.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the top ?",
+        "answer": "3",
+        "imag": "10910.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "10000000.0",
+        "imag": "21248.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in 2012 represents ?",
+        "answer": "Belarus",
+        "imag": "29940.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "11504.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "20961.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "29448.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "12324.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "20439.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Industry",
+        "imag": "9268.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the bottom in 2014 represents ?",
+        "answer": "Liberia",
+        "imag": "14102.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "28514.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the bottom ?",
+        "answer": "3",
+        "imag": "9483.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in French Polynesia represents ?",
+        "answer": "Primary school",
+        "imag": "6491.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in Malaysia represents ?",
+        "answer": "1960",
+        "imag": "11186.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 5th tick from the top ?",
+        "answer": "2",
+        "imag": "7424.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "6844.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the percentage of rural population living below poverty line monotonically increase over the years ?",
+        "answer": "No",
+        "imag": "4666.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "0.5",
+        "imag": "32762.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "14311.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "24311.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "11049.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Number of passengers carried",
+        "imag": "27436.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the bottom ?",
+        "answer": "3",
+        "imag": "7711.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "20.0",
+        "imag": "9048.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "4",
+        "imag": "21175.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "23427.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in Korea (Republic) represents ?",
+        "answer": "1990",
+        "imag": "10758.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "7106.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Country",
+        "imag": "6976.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "18",
+        "imag": "27463.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "22608.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "1462.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "27667.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the bottom ?",
+        "answer": "3",
+        "imag": "9954.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "10.0",
+        "imag": "1479.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "31163.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "17847.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "4",
+        "imag": "20103.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "31508.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "10341.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "10.0",
+        "imag": "3900.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the bottom ?",
+        "answer": "3",
+        "imag": "8250.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "3",
+        "imag": "6463.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "32859.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 1st group of bars from the left ?",
+        "answer": "Female",
+        "imag": "28517.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the top ?",
+        "answer": "2",
+        "imag": "5816.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "17069.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "5345.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "23931.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the left ?",
+        "answer": "4",
+        "imag": "30876.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "19752.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "8419.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "8480.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Number of days",
+        "imag": "5102.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "0.5",
+        "imag": "9970.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the left in 2014 represents ?",
+        "answer": "Ease of arranging shipments",
+        "imag": "29756.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "23776.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "13229.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "32373.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the left in 2008 represents ?",
+        "answer": "Bahrain",
+        "imag": "30257.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "23725.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Years",
+        "imag": "19102.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "26429.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "5479.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "30542.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the left in Custom duties represents ?",
+        "answer": "Spain",
+        "imag": "27186.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "29085.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "30893.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "24934.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "16584.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in Russian Federation represents ?",
+        "answer": "2006",
+        "imag": "31356.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "5",
+        "imag": "33506.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "26051.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the left ?",
+        "answer": "4",
+        "imag": "29554.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "24",
+        "imag": "14147.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "100000000.0",
+        "imag": "9391.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "17209.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the bottom in Panama represents ?",
+        "answer": "Male",
+        "imag": "6195.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "10.0",
+        "imag": "13873.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 3rd group of bars from the top ?",
+        "answer": "High income",
+        "imag": "10991.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 5th group of bars from the left ?",
+        "answer": "Germany",
+        "imag": "26909.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "20.0",
+        "imag": "17091.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Percentage of the population living below the national poverty lines in Bulgaria",
+        "imag": "16332.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "24857.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "20.0",
+        "imag": "1490.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "5.0",
+        "imag": "16920.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "24842.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "20.0",
+        "imag": "1140.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "12408.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "5",
+        "imag": "30289.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "32342.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "14372.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "16010.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "24702.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "2",
+        "imag": "12205.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "22490.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "4",
+        "imag": "31889.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "24271.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "100000000.0",
+        "imag": "26679.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "13975.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the poverty gap at national poverty lines greater than the average poverty gap at national poverty lines taken over all years ?",
+        "answer": "1",
+        "imag": "33358.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "29047.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "10630.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "29846.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "15",
+        "imag": "25090.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "4721.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "5801.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "5559.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "4",
+        "imag": "20437.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "19145.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "31681.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "30507.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "2",
+        "imag": "11366.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the top in 2013 represents ?",
+        "answer": "Peru",
+        "imag": "14345.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "12450.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "15710.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "18818.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "24185.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "20",
+        "imag": "12978.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "16633.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the line corresponding to percentage of employed children who are attending school intersect with the line corresponding to percentage of employed children who are not attending school ?",
+        "answer": "No",
+        "imag": "16917.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "6324.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "3",
+        "imag": "26178.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "29355.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "10.0",
+        "imag": "25988.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "18458.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "29213.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "11686.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "No",
+        "imag": "13598.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "25012.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the top ?",
+        "answer": "3",
+        "imag": "8982.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "No",
+        "imag": "30492.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the left in 2007 represents ?",
+        "answer": "Oman",
+        "imag": "27463.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 6th tick from the left ?",
+        "answer": "1",
+        "imag": "23336.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "No",
+        "imag": "25211.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "7178.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "23015.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the bottom ?",
+        "answer": "2",
+        "imag": "6921.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Years",
+        "imag": "19957.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "30253.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "24",
+        "imag": "13423.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "17029.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "10743.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "7313.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "10293.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the top ?",
+        "answer": "2",
+        "imag": "5997.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "33313.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the bottom in Jordan represents ?",
+        "answer": "Male",
+        "imag": "6431.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the top in 2006 represents ?",
+        "answer": "Netherlands",
+        "imag": "12595.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "16038.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the right ?",
+        "answer": "3",
+        "imag": "25111.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the bottom ?",
+        "answer": "4",
+        "imag": "14799.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "31320.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in Guatemala represents ?",
+        "answer": "1970",
+        "imag": "7317.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the right ?",
+        "answer": "4",
+        "imag": "30371.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "9569.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "22811.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "10258.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "11195.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "17322.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Number of deaths",
+        "imag": "25883.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the top ?",
+        "answer": "2",
+        "imag": "5637.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "3",
+        "imag": "15724.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "13363.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "12",
+        "imag": "24173.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "13383.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 1st group of bars from the left ?",
+        "answer": "1991",
+        "imag": "24933.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "6",
+        "imag": "27666.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in 2008 represents ?",
+        "answer": "French Polynesia",
+        "imag": "25192.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Country",
+        "imag": "28899.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "24170.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the top ?",
+        "answer": "4",
+        "imag": "12480.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "No. of subscribers (per 100 people)",
+        "imag": "1806.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "5305.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "28030.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the left in Canada represents ?",
+        "answer": "2005",
+        "imag": "28608.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "17606.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in Pre-primary schools represents ?",
+        "answer": "Arab World",
+        "imag": "5734.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the bottom ?",
+        "answer": "3",
+        "imag": "8974.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "24323.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "Yes",
+        "imag": "23564.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the right ?",
+        "answer": "3",
+        "imag": "28233.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "13694.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "4",
+        "imag": "30575.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the left in 1974 represents ?",
+        "answer": "Suriname",
+        "imag": "26345.png",
+        "imag_path": "./plotQA"
+    }
+]

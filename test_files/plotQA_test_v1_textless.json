@@ -1,0 +1,3494 @@
+[
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "30521.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Years",
+        "imag": "27789.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "Yes",
+        "imag": "467.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of male workers employed in Industrial sector in Germany maximum?",
+        "answer": "2004",
+        "imag": "7105.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "0.5",
+        "imag": "8177.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in Netherlands represents ?",
+        "answer": "1962",
+        "imag": "9573.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the cost of damage caused due to the depletion of minerals in Ghana in 1998 and the cost of damage caused due to the depletion of minerals in Mauritania in 1997 ?",
+        "answer": "-2.9302603091214916",
+        "imag": "5652.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the left ?",
+        "answer": "4",
+        "imag": "29384.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "2",
+        "imag": "7617.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the net enrollment rate in primary schools in Morocco and Mozambique ?",
+        "answer": "12.428",
+        "imag": "16671.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "12944.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the number of out-of-school children in Costa Rica monotonically increase over the years ?",
+        "answer": "No",
+        "imag": "2427.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum amount spent in making social contributions ?",
+        "answer": "34.1474159394536",
+        "imag": "15294.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "6",
+        "imag": "7631.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "26249.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average under-5 male mortality rate per year?",
+        "answer": "64.575",
+        "imag": "24150.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Net income from abroad of different countries in different currencies",
+        "imag": "29322.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum unemployed males population ?",
+        "answer": "8.12937396299508",
+        "imag": "4492.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "25254.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the total revenue generated in Niger in 2005 to that in 2006 ?",
+        "answer": "2.8491639275963485",
+        "imag": "14589.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest percentage of total merchandise exports in Hungary ?",
+        "answer": "2.1808656011630987",
+        "imag": "27435.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"France\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "9013.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Years",
+        "imag": "13151.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the number of enrolments in secondary education greater than the average number of enrolments in secondary education taken over all years ?",
+        "answer": "3",
+        "imag": "20062.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the top in 2007 represents ?",
+        "answer": "Fiji",
+        "imag": "10423.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum net bilateral aid flow in Brazil ?",
+        "answer": "23720000.0",
+        "imag": "30930.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "4",
+        "imag": "33069.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the primary completion rate of male entrants minimum ?",
+        "answer": "Low income",
+        "imag": "23719.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "24290.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the minimum percentage of population having access to drinking water in 1991 ?",
+        "answer": "44.9453186189005",
+        "imag": "27567.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "31958.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the percentage of unemployed female labor force in 1980 in Israel and the percentage of unemployed female labor force in 1981 in Hong Kong?",
+        "answer": "2.90000009536743",
+        "imag": "10595.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "18098.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the bottom ?",
+        "answer": "3",
+        "imag": "9954.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "24478.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the claims on state government in 2001 and 2003 greater than the difference between the claims on central government in 2001 and 2003 ?",
+        "answer": "No",
+        "imag": "6816.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the left ?",
+        "answer": "4",
+        "imag": "31654.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "1827.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "31320.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum number of beds in the hospiatls of in Georgia ?",
+        "answer": "3.8",
+        "imag": "27387.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the amount of co2 emissions from liquid fuel in 1989 to that in 1991?",
+        "answer": "1.072072390512884",
+        "imag": "18548.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "20.0",
+        "imag": "7073.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "16598.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the Balance of Payments in 2006 in Argentina and Armenia greater than the maximum Balance of Payments in 2005 across all countries ?",
+        "answer": "No",
+        "imag": "11965.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the left ?",
+        "answer": "3",
+        "imag": "26841.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Labor Force (as % of population)",
+        "imag": "5413.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the male life expectancy at birth in 1961 in Senegal less than that in Slovak Republic ?",
+        "answer": "Yes",
+        "imag": "8645.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the net financial flows from ibrd in Armenia and Upper middle income greater than the difference between any two countries ?",
+        "answer": "No",
+        "imag": "16175.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the unemployed male youth population maximum ?",
+        "answer": "2007",
+        "imag": "5494.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "16433.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the percentage of raw materials imports monotonically increase over the years ?",
+        "answer": "No",
+        "imag": "1836.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every year, the sum of the amount spent on custom duties by the government in Namibia and amount spent on custom duties by the government in Poland is greater than the amount spent on custom duties by the government in Greece ?",
+        "answer": "Yes",
+        "imag": "31536.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "1",
+        "imag": "21558.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum percentage of HIV infected female population in Panama ?",
+        "answer": "0.2",
+        "imag": "10675.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the GDP at purchase prices in 1961 maximum?",
+        "answer": "Sweden",
+        "imag": "26813.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Percentage of population having access to drinking water",
+        "imag": "1627.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the right ?",
+        "answer": "4",
+        "imag": "30916.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many countries, is the total calories needed to lift the undernourished population in 1992 greater than 220 kilocalories?",
+        "answer": "2",
+        "imag": "27925.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the percentage of broad money claimed on centeral government in Uruguay greater than the average percentage of broad money claimed on centeral government in Uruguay taken over all years ?",
+        "answer": "1",
+        "imag": "12430.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the employment to population ratio in Small states minimum?",
+        "answer": "2011",
+        "imag": "28944.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the personal remittances in 2008 to that in 2011 ?",
+        "answer": "1.474",
+        "imag": "32387.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the median population in urban agglomerations ?",
+        "answer": "7538816.0",
+        "imag": "16848.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the balance of payments of travel services in Slovenia in 2010 less than that in 2011 ?",
+        "answer": "No",
+        "imag": "29938.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the imports of goods and services greater than the average imports of goods and services taken over all years ?",
+        "answer": "2",
+        "imag": "24243.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Schooling information of male students involved in an economic activity in Yemen, Rep.",
+        "imag": "23892.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "28075.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "4",
+        "imag": "19857.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the amount of waste generated minimum ?",
+        "answer": "Kuwait",
+        "imag": "15995.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the amount of fertilizer consumption in Peru in 2010 to that in 2011?",
+        "answer": "0.9075273535008911",
+        "imag": "26649.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the left ?",
+        "answer": "2",
+        "imag": "24109.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "27514.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in Spain represents ?",
+        "answer": "1981",
+        "imag": "10304.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the percentage of children who use of insecticide-treated bed nets in 2000 less than that in 2010 ?",
+        "answer": "Yes",
+        "imag": "22230.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "4",
+        "imag": "3584.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of amount earned from merchandise exports in Gambia, The maximum?",
+        "answer": "1995",
+        "imag": "1958.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the left in 2001 represents ?",
+        "answer": "Crop",
+        "imag": "23769.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the density of new business in 2006 ?",
+        "answer": "0.634203500803324",
+        "imag": "15636.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the number of days required to register a property in Botswana maximum?",
+        "answer": "2009",
+        "imag": "24671.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the balance of payments of ICT services in Papua New Guinea minimum?",
+        "answer": "2010",
+        "imag": "4077.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the amount invested in equity securities and debt securities in Egypt, Arab Rep. in 2007 and 2009 greater than the difference between the amount invested in equity securities and debt securities in Bolivia in 2007 and 2009 ?",
+        "answer": "Yes",
+        "imag": "10126.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "27938.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How are the legend labels stacked ?",
+        "answer": "vertical",
+        "imag": "10960.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the amount of agricultural methane emitted in 2005 in Congo (Republic) and Cote d'Ivoire greater than the maximum amount of agricultural methane emitted in 2000 across all countries ?",
+        "answer": "No",
+        "imag": "10293.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "22232.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 4th bar from the left in Fragile and conflict affected situations represents ?",
+        "answer": "2008",
+        "imag": "28973.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the amount spent for social causes by the government in Guatemala greater than 80000000000 $?",
+        "answer": "0",
+        "imag": "30926.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "2",
+        "imag": "24273.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the poverty gap at national poverty lines greater than the average poverty gap at national poverty lines taken over all years ?",
+        "answer": "1",
+        "imag": "33358.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum official aid received ?",
+        "answer": "5197740000",
+        "imag": "13057.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the median percentage of employed females who are vulnerable to fall into poverty ?",
+        "answer": "11.84999990463255",
+        "imag": "4938.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the percentage of children who received treatment for diarrhoea minimum?",
+        "answer": "Madagascar",
+        "imag": "11443.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest percentage of the population ages 65 and above in 1962 ?",
+        "answer": "0.11314944674562",
+        "imag": "12888.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of undernourished population maximum ?",
+        "answer": "1994",
+        "imag": "22254.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many countries, is the value added by  manufacturing chemicals greater than the average value added by  manufacturing chemicals taken over all countries ?",
+        "answer": "4",
+        "imag": "5779.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest percentage of broad money claimed on private sector in Bhutan ?",
+        "answer": "2",
+        "imag": "20439.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Net Official DA received by a country",
+        "imag": "24685.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the bottom in 2008 represents ?",
+        "answer": "Colombia",
+        "imag": "9832.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Do a majority of the years between 2009 and 2007 (inclusive) have debt service greater than 4.4 % ?",
+        "answer": "Yes",
+        "imag": "32560.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the percentage of children who received treatment for malaria greater than the average percentage of children who received treatment for malaria taken over all years ?",
+        "answer": "3",
+        "imag": "449.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"1965\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "27520.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the amount of co2 emissions from liquid fuel in 1980 less than that in 1982 ?",
+        "answer": "Yes",
+        "imag": "9454.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "24053.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "12",
+        "imag": "9599.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "30863.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest balance of payments for travel services in 2005 ?",
+        "answer": "22.300562075286013",
+        "imag": "27376.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest number of required meetings with tax officials ?",
+        "answer": "5.699999999999999",
+        "imag": "4477.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total percentage of male labor force within the age group 15-20 in the graph ?",
+        "answer": "193.3999977111815",
+        "imag": "9112.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the number of broadband subscriptions in 2000 in Japan and Singapore greater than the difference between the number of broadband subscriptions in 1999 in Japan and Singapore ?",
+        "answer": "No",
+        "imag": "11170.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "3",
+        "imag": "26955.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "32261.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "28437.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "14619.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"1999\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "6424.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the fertility rate maximum?",
+        "answer": "Cote d'Ivoire",
+        "imag": "6182.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the total revenue collected by the government in Singapore in 2011 and 2012 greater than the difference between the total revenue collected by the government in Malta in 2011 and 2012 ?",
+        "answer": "No",
+        "imag": "3412.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "23655.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the percentage of claim on the central government in 2003 and 2006 greater than the difference between the percentage of claim on the domestic economy in 2003 and 2006 ?",
+        "answer": "Yes",
+        "imag": "2417.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the percentage of rural population who used drinking water services greater than 76 %?",
+        "answer": "4",
+        "imag": "22503.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the number of enrolments in secondary vocational education and number of enrolments in secondary education in Djibouti ?",
+        "answer": "-32864",
+        "imag": "30600.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the CPIA rating in 2005 maximum?",
+        "answer": "Moldova",
+        "imag": "30657.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total percentage of HIV infected female population in 1991 in the graph ?",
+        "answer": "1.0999999999999999",
+        "imag": "10450.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "24185.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "28922.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "9658.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the percentage of full-time male workers in 2007 and 2008 greater than the difference between any two years ?",
+        "answer": "No",
+        "imag": "4818.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average percentage of the population ages 0 to 14 in Romania per year?",
+        "answer": "15.746268414433201",
+        "imag": "3707.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Vietnam\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "29539.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "Yes",
+        "imag": "14274.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "10536.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total cpia rating of environmental sustainability in the graph ?",
+        "answer": "16.5",
+        "imag": "12684.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum percentage of long-term unemployed female population in 1981 ?",
+        "answer": "17.6000003814697",
+        "imag": "26870.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the line corresponding to earnings from merchandise imports intersect with the line corresponding to earnings from merchandise exports ?",
+        "answer": "No",
+        "imag": "17577.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "10436.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the amount spent on travel items of international tourists maximum?",
+        "answer": "2004",
+        "imag": "6899.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "30750.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest total unemployed labour force ?",
+        "answer": "3.4",
+        "imag": "32544.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "4",
+        "imag": "13633.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the percentage of female labor force in 2002 to that in 2010?",
+        "answer": "0.9900744982939416",
+        "imag": "17232.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the percentage of self employed male workers in 2011 ?",
+        "answer": "35.2000007629395",
+        "imag": "29585.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "8",
+        "imag": "3608.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the percentage of raw materials exports in France and that in Paraguay ?",
+        "answer": "-34.91564717175251",
+        "imag": "25580.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the balance of payment of travel services in Central Europe and that in Thailand ?",
+        "answer": "-45.5669391295926",
+        "imag": "6856.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the freight insurance greater than 6 % ?",
+        "answer": "6",
+        "imag": "33537.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "18",
+        "imag": "9272.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the top in 2006 represents ?",
+        "answer": "Norway",
+        "imag": "12959.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the minimum amount paid for imports ?",
+        "answer": "322768626.763631",
+        "imag": "7716.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the unemployed females population in 2000 to that in 2006 ?",
+        "answer": "1.1842105411756747",
+        "imag": "4546.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "CO2 emissions from other sectors excluding residential buildings",
+        "imag": "13289.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the gross enrolment ratio(male) in tertiary schools in 1990 and that in 1993 ?",
+        "answer": "-3.87728",
+        "imag": "3286.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "6",
+        "imag": "5943.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest debt and repayments in Haiti ?",
+        "answer": "4.459096767023119",
+        "imag": "25782.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the net bilateral aid flow in 1963 maximum?",
+        "answer": "Middle income",
+        "imag": "29828.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the cost of communications in 2009 and 2010 greater than the difference between any two years ?",
+        "answer": "No",
+        "imag": "22157.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Do a majority of the years between 2010 and 2006 (inclusive) have  computer and other services greater than 6 % ?",
+        "answer": "Yes",
+        "imag": "4728.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest percentage of self-employed female workers in Suriname ?",
+        "answer": "87.5999965667725",
+        "imag": "6713.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "5",
+        "imag": "18664.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label of the 2nd group of bars from the left ?",
+        "answer": "Merchandise imports",
+        "imag": "24701.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total number of days required to import the goods and services in 2006 in the graph ?",
+        "answer": "153.0",
+        "imag": "24508.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the number of new registrations in 2006 in Europe(developing only) ?",
+        "answer": "2.25950756707792",
+        "imag": "9984.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the median adult literacy rate ?",
+        "answer": "93.8821334838867",
+        "imag": "15063.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "8",
+        "imag": "30573.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How are the legend labels stacked ?",
+        "answer": "horizontal",
+        "imag": "19486.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every year, the sum of the prive value of exports in Seychelles and prive value of exports in Equatorial Guinea is greater than the prive value of exports in Uganda ?",
+        "answer": "No",
+        "imag": "27858.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total income from abroad in us$ in the graph ?",
+        "answer": "8198656.42994242",
+        "imag": "23039.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "6681.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average total resource balance in Colombia per year ?",
+        "answer": "0.0",
+        "imag": "13529.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of urban population using sanitaion services in Bangladesh minimum?",
+        "answer": "2011",
+        "imag": "27585.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Expenditure(as % of GDP)",
+        "imag": "14237.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In the year 2009, what is the difference between the total revenue generated in Czech Republic and total revenue generated in Lower middle income ?",
+        "answer": "-6.519007251363998",
+        "imag": "12402.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "6",
+        "imag": "27483.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "10500.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum amount of secondary income ?",
+        "answer": "14802658.78",
+        "imag": "32565.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the net official flows from un agencies in 2010 and 2013 greater than the difference between any two years ?",
+        "answer": "No",
+        "imag": "4773.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the percentage of non-pregnant anaemic women in Cabo Verde ?",
+        "answer": "42.4",
+        "imag": "11909.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the percentage of undernourished population greater than 17 % ?",
+        "answer": "6",
+        "imag": "21591.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "10248.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the number of armed forces personnel in United Kingdom monotonically increase over the years ?",
+        "answer": "No",
+        "imag": "1835.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of children who received treatment for malaria minimum?",
+        "answer": "1992",
+        "imag": "449.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "3",
+        "imag": "33365.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the value added by services maximum ?",
+        "answer": "Grenada",
+        "imag": "26609.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum amount spent for social causes by the government in Pakistan ?",
+        "answer": "1162325000000",
+        "imag": "31152.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "22811.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "2",
+        "imag": "807.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every year, the sum of the land under cereal production in Ireland and land under cereal production in Hungary is greater than the land under cereal production in Benin ?",
+        "answer": "Yes",
+        "imag": "9871.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many countries, is the percentage of male workers employed in Agricultural sector in 1980 greater than the average percentage of male workers employed in Agricultural sector in 1980 taken over all countries ?",
+        "answer": "1",
+        "imag": "22742.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "26323.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "20450.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "27672.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "14182.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the right ?",
+        "answer": "4",
+        "imag": "31254.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "26381.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "14798.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Northern Mariana Islands\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "29332.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the right in Canada represents ?",
+        "answer": "1962",
+        "imag": "26315.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the amount of methane emissions in 1990 to that in 2008?",
+        "answer": "0.7110126093308617",
+        "imag": "23246.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "15491.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "19509.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the total unemployed labour force minimum ?",
+        "answer": "1999",
+        "imag": "32599.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest volume of the air carriers in Venezuela ?",
+        "answer": "83.49999847410001",
+        "imag": "2266.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average agriculture value added per worker per year ?",
+        "answer": "3194.865",
+        "imag": "33624.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the female labor force participation rate in Jamaica in 2011 to that in 2012?",
+        "answer": "0.9902597647892286",
+        "imag": "30859.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the employment to population ratio in 1991 in United States and Uzbekistan greater than the difference between the employment to population ratio in 1992 in United States and Uzbekistan ?",
+        "answer": "Yes",
+        "imag": "29149.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the adjusted net savings in Costa Rica in 2001 and 2003 greater than the difference between the adjusted net savings in Guinea in 2001 and 2003 ?",
+        "answer": "No",
+        "imag": "13818.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every year, the sum of the percentage of HIV infected female population in South Africa and percentage of HIV infected female population in Tanzania is greater than the percentage of HIV infected female population in Bolivia ?",
+        "answer": "Yes",
+        "imag": "10301.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "27808.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Where does the legend appear in the graph ?",
+        "answer": "bottom right",
+        "imag": "27546.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum percentage of employed males who are vulnerable to fall into poverty ?",
+        "answer": "85.4000015258789",
+        "imag": "32295.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the general parity index in Poland in 2001 ?",
+        "answer": "0.9730499982833859",
+        "imag": "13564.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the urban population in 1969 and 1970 greater than the difference between the rural population in 1969 and 1970 ?",
+        "answer": "No",
+        "imag": "6048.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "9014.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average CPIA rating in 2005 per country?",
+        "answer": "3.75",
+        "imag": "30779.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "4",
+        "imag": "20348.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the amount of loan disimbursed by international development association in Middle income less than that in Upper middle income ?",
+        "answer": "Yes",
+        "imag": "12874.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the percentage of external PPG debt contracted in Euros in 2001 maximum?",
+        "answer": "Morocco",
+        "imag": "27337.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest total CO2 emitted in Cambodia ?",
+        "answer": "6.960053629874939",
+        "imag": "3607.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest net bilateral aid flow in Mexico ?",
+        "answer": "420000.0",
+        "imag": "372.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the right ?",
+        "answer": "3",
+        "imag": "28233.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Uruguay\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "6443.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the total unemployed population in Bhutan less than that in Bolivia?",
+        "answer": "Yes",
+        "imag": "33327.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "4",
+        "imag": "16351.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the area of land in Bangladesh and Barbados greater than the maximum area of land across all countries ?",
+        "answer": "Yes",
+        "imag": "16389.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "26759.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the ppp conversion factor for gdp minimum?",
+        "answer": "Ukraine",
+        "imag": "14431.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the right in Primary represents ?",
+        "answer": "Lithuania",
+        "imag": "25940.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum percentage of labor force who received primary education ?",
+        "answer": "8.0",
+        "imag": "1553.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the right in Central African Republic represents ?",
+        "answer": "Competing against unregistered firms",
+        "imag": "22673.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the expenditure in staff compensation in South Africa and the expenditure in education in Azerbaijan ?",
+        "answer": "-15.139228820800923",
+        "imag": "12488.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the balance of payments of travel services maximum?",
+        "answer": "2010",
+        "imag": "1088.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured dotlines are there ?",
+        "answer": "3",
+        "imag": "2677.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How are the legend labels stacked ?",
+        "answer": "vertical",
+        "imag": "14886.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Aid flow (current US$)",
+        "imag": "11708.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the top ?",
+        "answer": "2",
+        "imag": "7334.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "10.0",
+        "imag": "13873.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the bottom ?",
+        "answer": "3",
+        "imag": "9084.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of dotlines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "3081.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many countries, is the earnings from trade in 1961 greater than 28 % ?",
+        "answer": "1",
+        "imag": "8791.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of amount earned from merchandise imports in Nigeria minimum?",
+        "answer": "1999",
+        "imag": "8970.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "Yes",
+        "imag": "25267.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the amount of disbursements received from International Monetary Fund in 1973 in South Asia to that in Sub-Saharan Africa (developing only) ?",
+        "answer": "3.285209645215789",
+        "imag": "12852.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured dotlines are there ?",
+        "answer": "3",
+        "imag": "1671.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Waste generated by a country",
+        "imag": "27528.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "4044.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of lines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "17029.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "871.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "26310.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "CO2 emissions from other sectors excluding residential buildings",
+        "imag": "31350.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the expenditure made on health care in Canada greater than the average expenditure made on health care in Canada taken over all years ?",
+        "answer": "2",
+        "imag": "28305.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "23186.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "7768.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "2",
+        "imag": "7361.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "28143.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest number of secondary teachers ?",
+        "answer": "114",
+        "imag": "6520.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total reserves (excluding gold) in 2010 ?",
+        "answer": "731778237.8717",
+        "imag": "5378.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum percentage of repeaters ?",
+        "answer": "2.1810700893402",
+        "imag": "21521.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Money invested in water and sanitation projects by different countries",
+        "imag": "15147.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "24839.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "50000.0",
+        "imag": "24144.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum incurrence of domestic liabilities ?",
+        "answer": "14.3754425612053",
+        "imag": "5769.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the number of required meetings with tax officials minimum ?",
+        "answer": "2013",
+        "imag": "16418.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Calories needed to lift the undernourished population",
+        "imag": "26235.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum cost of communications and computers in Macao ?",
+        "answer": "0.935748484696944",
+        "imag": "7970.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the bottom ?",
+        "answer": "4",
+        "imag": "13074.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the bottom in Argentina represents ?",
+        "answer": "1962",
+        "imag": "13828.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Investment in Telecom",
+        "imag": "8781.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "2728.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum balance of payments of transport services ?",
+        "answer": "23.5002217257094",
+        "imag": "17836.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "27947.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "2",
+        "imag": "10101.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Where does the legend appear in the graph ?",
+        "answer": "center right",
+        "imag": "8250.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the percentage of economically active female population in 2002 less than that in 2008 ?",
+        "answer": "No",
+        "imag": "23513.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Employment in various sectors of an economy in 2012",
+        "imag": "12786.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "5",
+        "imag": "21941.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total gdp per capita in the graph ?",
+        "answer": "4602.600960637738",
+        "imag": "23191.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the completeness of infant death reporting in 2007 to that in 2008 ?",
+        "answer": "0.928381343285195",
+        "imag": "21633.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the merchandise exports in 2004 and 2006 greater than the difference between the merchandise imports in 2004 and 2006 ?",
+        "answer": "No",
+        "imag": "56.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the unemployed male youth population in 1999 and 2001 greater than the maximum unemployed male youth population across all years ?",
+        "answer": "Yes",
+        "imag": "22327.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Least developed countries\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "2524.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "26014.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum percentage of trained teachers in Brunei Darussalam ?",
+        "answer": "13.5231103897095",
+        "imag": "2546.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest unemployed female youth population ?",
+        "answer": "0.6",
+        "imag": "15808.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the total unemployed labor force in Barbados in 2006 to that in 2011 ?",
+        "answer": "0.7767857104844004",
+        "imag": "8455.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 5th tick from the right ?",
+        "answer": "4",
+        "imag": "31417.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many countries, is the gender parity index in primary education greater than the average gender parity index in primary education taken over all countries ?",
+        "answer": "1",
+        "imag": "24250.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the debt in 1977 and 1978 ?",
+        "answer": "59694000.0",
+        "imag": "32870.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Arab World\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "5679.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of unemployed youth population in in Bulgaria maximum?",
+        "answer": "2008",
+        "imag": "18934.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest net bilateral aid flow in Lebanon ?",
+        "answer": "11500000.0",
+        "imag": "20930.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "2819.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "28275.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum number of births attended by skilled health staff ?",
+        "answer": "100.0",
+        "imag": "15798.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Country",
+        "imag": "11373.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average agriculture value added per worker per year ?",
+        "answer": "19901.682",
+        "imag": "15531.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "23115.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average percentage of arable land in Chile per year?",
+        "answer": "5.4765632144951395",
+        "imag": "30445.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "7513.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the bottom in India represents ?",
+        "answer": "1962",
+        "imag": "9859.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the bottom ?",
+        "answer": "3",
+        "imag": "7711.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the enrolment ratio of male students in primary schools in Malta strictly greater than the enrolment ratio of male students in primary schools in Sub-Saharan Africa (developing only) over the years ?",
+        "answer": "No",
+        "imag": "17631.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 4th bar from the bottom in Austria represents ?",
+        "answer": "2008",
+        "imag": "14263.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How are the legend labels stacked ?",
+        "answer": "vertical",
+        "imag": "18180.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the total unemployed male labour force in 1982 to that in 1983 ?",
+        "answer": "0.7800000190734859",
+        "imag": "4589.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "29766.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "4",
+        "imag": "30328.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest amount of fertilizer consumption in Portugal ?",
+        "answer": "11.261358709922007",
+        "imag": "10724.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the male labor force participation rate in Congo (Democratic) strictly less than the male labor force participation rate in Bhutan over the years ?",
+        "answer": "Yes",
+        "imag": "3460.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "2311.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many dotlines are there ?",
+        "answer": "4",
+        "imag": "4205.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the population in the largest city in 1961 in India and that in Iraq ?",
+        "answer": "4658626.0",
+        "imag": "8158.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the right ?",
+        "answer": "3",
+        "imag": "25902.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum percentage of women justifying abuse for showing negligence towards children ?",
+        "answer": "43.7",
+        "imag": "27190.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "24014.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Percentage of children employment in Tajikistan",
+        "imag": "7261.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the percentage of adult males who smoke in High income: nonOECD strictly less than the percentage of adult males who smoke in Kazakhstan over the years ?",
+        "answer": "No",
+        "imag": "4381.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 1st bar from the right in Mongolia represents ?",
+        "answer": "Wage workers",
+        "imag": "28312.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "No",
+        "imag": "25688.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the balance of payments of travel services in 2005 in Tunisia and the balance of payments of travel services in 2006 in Tajikistan?",
+        "answer": "53.69074932865266",
+        "imag": "14769.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the percentage of repeaters greater than 1 % ?",
+        "answer": "8",
+        "imag": "22263.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Number of children ages 0-14 who are infected with HIV in Venezuela",
+        "imag": "21509.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the left ?",
+        "answer": "2",
+        "imag": "24048.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the percentage of unemployed females in in Euro area in 1999 ?",
+        "answer": "24.3914624187074",
+        "imag": "11458.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the percentage of male labor force who received primary education in 2008 and that in 2013 ?",
+        "answer": "8.0",
+        "imag": "8252.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the amount of emissions from human activities strictly greater than the amount of emissions generated from industries over the years ?",
+        "answer": "Yes",
+        "imag": "469.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Contributing total family workers in Rwanda",
+        "imag": "32144.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest percentage of unemployed males population in in Italy ?",
+        "answer": "4.2199993133544975",
+        "imag": "25021.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest percentage of area under arable land ?",
+        "answer": "0.0",
+        "imag": "4215.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest amount collected by government from taxes on income in Burkina Faso ?",
+        "answer": "3217035980.0",
+        "imag": "30378.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "26778.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the amount invested in equity securities and debt securities in El Salvador in 2007 and the amount invested in equity securities and debt securities in St. Vincent and the Grenadines in 2006?",
+        "answer": "166800000.0",
+        "imag": "27606.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "9571.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the co2 emissions from gaseous fuel consumption in 1993 to that in 1994 ?",
+        "answer": "0.8295454545454544",
+        "imag": "4493.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given year not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "13009.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the percentage of trained primary school teachers (males) in Caribbean small states in 2003 to that in 2005?",
+        "answer": "1.0185817792209795",
+        "imag": "25159.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "30907.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of dotlines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "2569.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the amount spent on other expenses maximum ?",
+        "answer": "Pakistan",
+        "imag": "28682.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the percentage of self-employed male workers in 1981 in Canada ?",
+        "answer": "10.0",
+        "imag": "24071.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "16585.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "5000.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Curacao\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "28186.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the percentage of amount earned from merchandise imports in Sierra Leone in 2009 less than that in 2011 ?",
+        "answer": "Yes",
+        "imag": "10311.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Percent of total female population who survived till the age of 65 years",
+        "imag": "19039.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum crop production index ?",
+        "answer": "106.21",
+        "imag": "23907.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Year",
+        "imag": "20673.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest number of secure internet servers in Mauritania ?",
+        "answer": "0.6658397732008299",
+        "imag": "25048.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Earning(%)",
+        "imag": "8225.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "11406.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are all the bars in the graph horizontal ?",
+        "answer": "Yes",
+        "imag": "13230.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum percentage of economically active male population ?",
+        "answer": "74",
+        "imag": "17779.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest number of passengers carried by air carriers in Congo (Republic) ?",
+        "answer": "4200.0",
+        "imag": "26964.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the minimum percentage of pregnant women receiving prenatal care ?",
+        "answer": "55.7",
+        "imag": "15983.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "12539.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "27047.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the under-five mortality rate in 2000 in Sri Lanka and St. Kitts and Nevis greater than the difference between the under-five mortality rate in 2010 in Sri Lanka and St. Kitts and Nevis ?",
+        "answer": "No",
+        "imag": "10088.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Self-employed male workers as % of total employment in an economy",
+        "imag": "23487.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "2",
+        "imag": "17797.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the insurance provided by non-residents in 2010 and 2011 greater than the maximum insurance provided by non-residents across all years ?",
+        "answer": "Yes",
+        "imag": "22078.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of amount earned from merchandise exports in Mozambique maximum?",
+        "answer": "1984",
+        "imag": "19363.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "0.2",
+        "imag": "16172.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the area of land in 1975 ?",
+        "answer": "1000",
+        "imag": "16445.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the percentage of land area under agriculture strictly greater than the percentage of land area under forests over the years ?",
+        "answer": "No",
+        "imag": "16881.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 3rd tick from the right ?",
+        "answer": "4",
+        "imag": "28827.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the Logistic performance index in Sub-Saharan Africa (developing only) greater than 2.9 ?",
+        "answer": "0",
+        "imag": "22791.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "0.2",
+        "imag": "24456.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the percentage of amount earned from merchandise exports in Cabo Verde in 1993 and the percentage of amount earned from merchandise exports in Bangladesh in 1997 ?",
+        "answer": "3.2560943259321204",
+        "imag": "9868.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Employment in various sectors of an economy in 2007",
+        "imag": "13922.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the customs and other import duties in 1992 ?",
+        "answer": "55.6273447269696",
+        "imag": "22364.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "5",
+        "imag": "7137.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the bottom ?",
+        "answer": "4",
+        "imag": "14064.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the amount spent on custom duties by the government in Senegal in 2010 and 2011 greater than the maximum amount spent on custom duties by the government in Korea (Republic) across all years ?",
+        "answer": "No",
+        "imag": "28716.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest ida resource allocation index ?",
+        "answer": "0.37",
+        "imag": "31886.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "25672.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "8878.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "0.5",
+        "imag": "4502.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the undisbursed external debt of official creditors minimum?",
+        "answer": "1973",
+        "imag": "17652.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the percentage of ores and metals imports and percentage of manufactures imports in Benin ?",
+        "answer": "-65.99118892299943",
+        "imag": "26095.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "5",
+        "imag": "30438.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum merchandise exports ?",
+        "answer": "0.188221741708557",
+        "imag": "17292.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars per tick equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "26988.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the number of births attended by skilled health staff minimum ?",
+        "answer": "1992",
+        "imag": "5013.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the percentage of revenue generated by tax on international trade greater than the average percentage of revenue generated by tax on international trade taken over all years ?",
+        "answer": "1",
+        "imag": "2611.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the minimum employment to population ratio(male) ?",
+        "answer": "36.9000015258789",
+        "imag": "11803.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many countries, is the percentage of female labor force greater than the average percentage of female labor force taken over all countries ?",
+        "answer": "1",
+        "imag": "10953.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the merchandise imports in Mauritius ?",
+        "answer": "4.532163742690059",
+        "imag": "7998.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Canada\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "20722.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the net taxes in constant 2005 us$ maximum ?",
+        "answer": "Mauritania",
+        "imag": "24182.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "4",
+        "imag": "29593.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Where does the legend appear in the graph ?",
+        "answer": "bottom left",
+        "imag": "30174.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "1262.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum total arable land in 1962 ?",
+        "answer": "0.42607039535072",
+        "imag": "24474.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "9",
+        "imag": "27970.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "25203.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "5",
+        "imag": "29952.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "Yes",
+        "imag": "15089.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "31777.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest net official aid flow in Cameroon ?",
+        "answer": "1570000",
+        "imag": "12992.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of amount earned from merchandise exports in Georgia minimum?",
+        "answer": "2012",
+        "imag": "2339.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the claims on central government and claims on state government in Costa Rica ?",
+        "answer": "-47.5494462220916",
+        "imag": "12593.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Urban\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "24298.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the percentage of the population ages 15 to 64 in Lithuania in 1991 to that in 1992 ?",
+        "answer": "1.0025990968527492",
+        "imag": "13708.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the percentage of fuel imports in European Union ?",
+        "answer": "11.398603340983",
+        "imag": "26559.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the amount of commercial service exports in 2008 and 2009 greater than the difference between the amount of commercial service imports in 2008 and 2009 ?",
+        "answer": "No",
+        "imag": "7583.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the employment in public sector in 1980 in Norway and that in Portugal ?",
+        "answer": "26.200000762939396",
+        "imag": "23180.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of unemployed female labor force in Paraguay maximum?",
+        "answer": "2005",
+        "imag": "19479.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the amount spent for social causes by the government in Barbados in 2008 and that in 2009 ?",
+        "answer": "-78565131.0",
+        "imag": "30926.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the labor force participation rate in Iran minimum?",
+        "answer": "2007",
+        "imag": "3149.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of days required to register property in 2004 less than that in 2007 ?",
+        "answer": "No",
+        "imag": "22292.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total percentage of self employed male workers in the graph ?",
+        "answer": "286.8000068664551",
+        "imag": "3853.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the total CO2 emitted in Serbia greater than the average total CO2 emitted in Serbia taken over all years ?",
+        "answer": "1",
+        "imag": "29792.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the top ?",
+        "answer": "3",
+        "imag": "9556.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the age dependency ratio(old) maximum ?",
+        "answer": "Bosnia and Herzegovina",
+        "imag": "23718.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the Y-axis equal ?",
+        "answer": "Yes",
+        "imag": "13540.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the merchandise imports in 2001 and the merchandise exports in 1999?",
+        "answer": "0.8913617899633569",
+        "imag": "54.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest value added by  manufacturing chemicals ?",
+        "answer": "13.196344661325181",
+        "imag": "23612.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the time to clear exports through customs maximum ?",
+        "answer": "Mozambique",
+        "imag": "32403.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "5.0",
+        "imag": "15747.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "Yes",
+        "imag": "21820.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 2nd tick from the bottom ?",
+        "answer": "4",
+        "imag": "13706.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum merchandise exports ?",
+        "answer": "16.8713070162321",
+        "imag": "4990.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the percentage of population who used drinking water services maximum?",
+        "answer": "1996",
+        "imag": "17696.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the percentage of HIV infected female population in 1992 and percentage of HIV infected female population in 1991 in Kyrgyz Republic ?",
+        "answer": "0.0",
+        "imag": "11369.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "3",
+        "imag": "9555.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the total debt service in Sudan and Togo ?",
+        "answer": "13.462",
+        "imag": "33266.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the expenditures made by the government on personal remittances and education in Heavily indebted poor countries greater than the average expenditures made by the government on personal remittances and education in Heavily indebted poor countries taken over all years ?",
+        "answer": "4",
+        "imag": "4016.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum percentage of fraud firms ?",
+        "answer": "45.69",
+        "imag": "17194.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the rating of statistical capacity in 2004 in Brazil and that in Burkina Faso ?",
+        "answer": "-3.3333300000000037",
+        "imag": "5956.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the secondary income of of/in 2006 and secondary income of of/in 2005 in Egypt, Arab Rep.?",
+        "answer": "77800000.0",
+        "imag": "25416.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Tanzania\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "19007.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest percentage of broad money claimed on private sector in St. Kitts and Nevis ?",
+        "answer": "1.2257257124372098",
+        "imag": "12060.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total amount earned from international visitors in the graph ?",
+        "answer": "50525000000.0",
+        "imag": "23828.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "2",
+        "imag": "17685.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "24598.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total total electricity produced in 1960 in the graph ?",
+        "answer": "12.439148646465044",
+        "imag": "31565.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the income share held by highest 20% of the population monotonically increase over the years ?",
+        "answer": "No",
+        "imag": "17624.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "17646.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the GDP per capita in Germany in 2009 to that in 2013 ?",
+        "answer": "0.9062722186697371",
+        "imag": "9052.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the net official aid flow in Bhutan strictly greater than the net official aid flow in OECD members over the years ?",
+        "answer": "No",
+        "imag": "4281.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the rent towards natural gas in 2006 and 2007 greater than the difference between the rent towards oil in 2006 and 2007 ?",
+        "answer": "No",
+        "imag": "27582.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the balance of payments of travel services in 2005 in Armenia to that in Australia ?",
+        "answer": "0.9430226452134544",
+        "imag": "12834.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the food production index in 2002 less than that in 2003 ?",
+        "answer": "No",
+        "imag": "861.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the sum of the area of arable land ?",
+        "answer": "0.8990363581312161",
+        "imag": "22319.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Total resource balance of El Salvador in different curriences",
+        "imag": "7038.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "9569.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "2",
+        "imag": "18464.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "200000.0",
+        "imag": "24544.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the general parity index in Albania minimum?",
+        "answer": "2006",
+        "imag": "13564.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the unemployed youth population in 2007 and 2011 greater than the maximum unemployed youth population across all years ?",
+        "answer": "Yes",
+        "imag": "15892.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Gross intake ratio of male students to Grade 1 of primary education",
+        "imag": "30588.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest amount of CO2 emitted due to industrial production in 1960 ?",
+        "answer": "0.19080194478198229",
+        "imag": "8849.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 4th tick from the right ?",
+        "answer": "3",
+        "imag": "25111.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "10.0",
+        "imag": "1082.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "10.0",
+        "imag": "19482.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "2000000.0",
+        "imag": "9289.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "9118.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum employment to population ratio(female) ?",
+        "answer": "25.7999992370605",
+        "imag": "6355.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "4918.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest percentage of male labor force who received primary education ?",
+        "answer": "2.218",
+        "imag": "11450.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "12",
+        "imag": "25136.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the ratio of the female labor force participation rate in 1993 in Germany to that in Guatemala ?",
+        "answer": "1.4560570417773684",
+        "imag": "13492.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest percentage of overweight children ?",
+        "answer": "12.3000001907349",
+        "imag": "23199.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the number of people infected with hiv in 2012 and 2013 greater than the difference between any two years ?",
+        "answer": "Yes",
+        "imag": "21603.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "4",
+        "imag": "31357.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the price level ratio in Afghanistan maximum?",
+        "answer": "2010",
+        "imag": "9014.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of X-axis written in scientific E-notation ?",
+        "answer": "Yes",
+        "imag": "13925.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum lower secondary school starting age of children in Zambia ?",
+        "answer": "14",
+        "imag": "13857.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total female mortality rate in the graph ?",
+        "answer": "1081.5746",
+        "imag": "22819.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average balance of payments for transport services in 2006 per country?",
+        "answer": "24.371401873041734",
+        "imag": "27137.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Percentage of fraud firms (not-registered or running illegally) vs registered firms in Bosnia and Herzegovina",
+        "imag": "16974.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of dotlines equal to the number of legend labels ?",
+        "answer": "Yes",
+        "imag": "623.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the amount spent on the salary of employees by the government in Maldives in 2006 ?",
+        "answer": "1085100000.0",
+        "imag": "12728.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum completeness of total death reports ?",
+        "answer": "100.0",
+        "imag": "32861.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "6",
+        "imag": "6975.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum average precipitation in Philippines ?",
+        "answer": "2348",
+        "imag": "19072.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the merchandise exports in 2001 and that in 2004 ?",
+        "answer": "1.789",
+        "imag": "5594.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "No",
+        "imag": "29622.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the ease of doing business index maximum ?",
+        "answer": "2014",
+        "imag": "22317.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"1975\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "7194.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many countries, is the education expenditure greater than 1520000000 US$ ?",
+        "answer": "1",
+        "imag": "15669.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Uruguay\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "2865.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the percentage of underweighted female children in 2000 and 2006 greater than the difference between the percentage of underweighted male children in 2000 and 2006 ?",
+        "answer": "Yes",
+        "imag": "99.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average merchandise imports per country ?",
+        "answer": "2.277123636441817",
+        "imag": "24091.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "5.0",
+        "imag": "32985.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Ores and metals\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "11181.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in 2007 represents ?",
+        "answer": "Middle income",
+        "imag": "12525.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many cases, is the number of bars for a given country not equal to the number of legend labels ?",
+        "answer": "0",
+        "imag": "12356.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many lines are there ?",
+        "answer": "3",
+        "imag": "18538.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "7724.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the percentage of full-time workers of/in 1980 and percentage of full-time workers of/in 1982 in Canada?",
+        "answer": "0.5",
+        "imag": "25505.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the percentage total merchandise imports in 1994 maximum?",
+        "answer": "Egypt, Arab Rep.",
+        "imag": "25737.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum proportion of the female labor force who participated in production in East Asia (developing only) ?",
+        "answer": "66.8541752625264",
+        "imag": "2636.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum number of internet users in Bosnia and Herzegovina ?",
+        "answer": "37.74",
+        "imag": "27519.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the net non concessional disbursements from rdb in 1984 ?",
+        "answer": "204424000",
+        "imag": "6381.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Net disbursements received from International Monetary Fund (non-concessional)",
+        "imag": "31448.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "33199.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the amount of aid provided by new zealand in Zambia and the amount of aid provided by spain in Brazil ?",
+        "answer": "-9650000",
+        "imag": "8462.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "3",
+        "imag": "26597.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest tuberculosis treatment success rate in Latvia ?",
+        "answer": "15",
+        "imag": "19218.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average transition rate among male students per country ?",
+        "answer": "75.043",
+        "imag": "6418.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the X-axis ?",
+        "answer": "Years",
+        "imag": "27799.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "32177.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "4",
+        "imag": "13397.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured lines are there ?",
+        "answer": "4",
+        "imag": "21023.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every country, the sum of the amount earned from merchandise exports in 1961 and amount earned from merchandise exports in 1960 is greater than the amount earned from merchandise exports in 1962 ?",
+        "answer": "No",
+        "imag": "10990.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Revenue\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "7279.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the maximum number of teachers teaching in primary schools in Serbia ?",
+        "answer": "18511.0",
+        "imag": "14000.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the CPIA rating in 2006 in Middle East & North Africa (all income levels) and that in Middle income ?",
+        "answer": "-0.30882352941176006",
+        "imag": "30482.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the X-axis ?",
+        "answer": "5000000000.0",
+        "imag": "13182.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum percentage of total employers ?",
+        "answer": "4.90000009536743",
+        "imag": "6211.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Net enrolment rate in secondary schools of a country",
+        "imag": "29344.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "2",
+        "imag": "23610.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "7872.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the top in 2011 represents ?",
+        "answer": "Indonesia",
+        "imag": "8636.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Earning from merchandise imports by the reporting economy(residual) of countries",
+        "imag": "25321.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every country, the sum of the ODA received in in 1961 and ODA received in in 1962 is greater than the ODA received in in 1960 ?",
+        "answer": "Yes",
+        "imag": "8800.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How are the legend labels stacked ?",
+        "answer": "vertical",
+        "imag": "11227.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the balance of payments of transport services in Samoa strictly greater than the balance of payments of transport services in Cambodia over the years ?",
+        "answer": "No",
+        "imag": "4367.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "31103.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total percentage of female labor force who received tertiary education in the graph ?",
+        "answer": "75.70000076293951",
+        "imag": "22879.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the net disbursements made by czech republic in Moldova and Arab World greater than the maximum net disbursements made by slovak republic across all countries ?",
+        "answer": "No",
+        "imag": "30712.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the unemployed male youth in High income: OECD and Latin America(developing only) greater than the maximum unemployed male youth across all countries ?",
+        "answer": "Yes",
+        "imag": "32368.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain any zero values ?",
+        "answer": "No",
+        "imag": "33094.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average total unemployed labour force per country ?",
+        "answer": "8.461",
+        "imag": "32378.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"Qatar\" appear as one of the legend labels in the graph ?",
+        "answer": "No",
+        "imag": "8139.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average percentage of self-employed male workers in West Bank and Gaza per year ?",
+        "answer": "6.666666666666667",
+        "imag": "10368.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "1.0",
+        "imag": "23118.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the percentage of women justifying abuse in the case of an argument in Eritrea ?",
+        "answer": "44.6",
+        "imag": "22957.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the total expenditure spent by the government in healthcare projects in 1998 in Paraguay less than that in Philippines ?",
+        "answer": "No",
+        "imag": "13310.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Do a majority of the years between 2006 and 2007 (inclusive) have cost of communications and computer greater than 60 % ?",
+        "answer": "No",
+        "imag": "33232.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does \"1960\" appear as one of the legend labels in the graph ?",
+        "answer": "Yes",
+        "imag": "12271.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the unemployment in females in in 1992 in Lesotho and Libya greater than the maximum unemployment in females in in 1991 across all countries ?",
+        "answer": "Yes",
+        "imag": "8953.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all years, what is the minimum percentage of female labor force who received tertiary education ?",
+        "answer": "26.5",
+        "imag": "24953.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the number of out-of-school children in Kazakhstan monotonically increase over the years ?",
+        "answer": "No",
+        "imag": "1530.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "25918.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the number of enrolments in secondary schools in Finland maximum?",
+        "answer": "1981",
+        "imag": "4079.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured dotlines are there ?",
+        "answer": "3",
+        "imag": "1858.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the net bilateral aid flow in Colombia in 1995 less than that in 2009 ?",
+        "answer": "Yes",
+        "imag": "28577.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many countries are there in the graph ?",
+        "answer": "3",
+        "imag": "27362.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every year, the sum of the total reserves (including gold) in Switzerland and total reserves (including gold) in Comoros  is greater than the total reserves (including gold) in Cyprus ?",
+        "answer": "Yes",
+        "imag": "1666.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Do a majority of the years between 2012 and 2014 (inclusive) have number of procedures to build a warehouse greater than 8.4  ?",
+        "answer": "Yes",
+        "imag": "5341.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the amount spent on the passenger transport items of national tourists in Myanmar minimum?",
+        "answer": "2011",
+        "imag": "27799.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "3",
+        "imag": "28836.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How are the legend labels stacked ?",
+        "answer": "vertical",
+        "imag": "11322.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 2nd bar from the left in Bolivia represents ?",
+        "answer": "2006",
+        "imag": "31062.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the values on the major ticks of Y-axis written in scientific E-notation ?",
+        "answer": "No",
+        "imag": "20736.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "6",
+        "imag": "32393.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the amount of emissions from human activities in 2000 ?",
+        "answer": "1557738.3",
+        "imag": "16922.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Where does the legend appear in the graph ?",
+        "answer": "bottom right",
+        "imag": "26654.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is it the case that in every year, the sum of the amount of agricultural methane emitted in Tanzania and amount of agricultural methane emitted in Guatemala is greater than the amount of agricultural methane emitted in Jordan ?",
+        "answer": "Yes",
+        "imag": "27278.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the gross intake ratio in Cambodia in 2006 and 2010 greater than the maximum gross intake ratio in Montenegro across all years ?",
+        "answer": "Yes",
+        "imag": "31088.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In how many years, is the unemployed female youth population greater than the average unemployed female youth population taken over all years ?",
+        "answer": "3",
+        "imag": "4522.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the percentage of exports to different countries in 1962 in Paraguay ?",
+        "answer": "11.389385517357",
+        "imag": "30405.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "16",
+        "imag": "31379.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which year was the number of anaemic children minimum ?",
+        "answer": "1994",
+        "imag": "15270.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the title of the graph ?",
+        "answer": "Long-term male unemployment in 1994",
+        "imag": "16395.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many years are there in the graph ?",
+        "answer": "3",
+        "imag": "24717.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the information index in Least developed countries in 2013 less than that in 2015 ?",
+        "answer": "Yes",
+        "imag": "10372.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the amount of nitrous oxide emissions in 2008 ?",
+        "answer": "10924.1",
+        "imag": "23246.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total percentage of vaccinated children in Guatemala in the graph ?",
+        "answer": "469",
+        "imag": "29823.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "In which country was the price of gasoline in 1991 minimum?",
+        "answer": "Ethiopia",
+        "imag": "8066.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What does the 3rd bar from the right in 2012 represents ?",
+        "answer": "South Asia",
+        "imag": "26185.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the total reserves (including gold) in 1983 and 1986 greater than the maximum total reserves (including gold) across all years ?",
+        "answer": "No",
+        "imag": "5526.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many different coloured bars are there ?",
+        "answer": "3",
+        "imag": "26247.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total average working hour of children involved in study and work in the graph ?",
+        "answer": "41.599999999999994",
+        "imag": "24226.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there ?",
+        "answer": "9",
+        "imag": "27681.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "5.0",
+        "imag": "16920.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many bars are there on the 1st tick from the right ?",
+        "answer": "4",
+        "imag": "29162.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the sum of the percentage of female teachers in primary schools in 2000 and 2002 greater than the maximum percentage of female teachers in secondary schools across all years ?",
+        "answer": "Yes",
+        "imag": "22450.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the lowest percentage of self-employed male workers in Netherlands ?",
+        "answer": "0.0",
+        "imag": "1519.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between two consecutive major ticks on the Y-axis ?",
+        "answer": "2.0",
+        "imag": "32543.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the difference between the highest and the second highest expenditure towards education in Ukraine ?",
+        "answer": "2309531534.7548294",
+        "imag": "27462.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the label or title of the Y-axis ?",
+        "answer": "Mortality rate(per 1,000 live births)",
+        "imag": "1674.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many groups of bars are there ?",
+        "answer": "3",
+        "imag": "24496.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the total expenditure spent by the government in healthcare projects in Jordan in 2004 ?",
+        "answer": "9.06597688",
+        "imag": "4309.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "4",
+        "imag": "13598.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Across all countries, what is the maximum days required to build a warehouse in in 2005 ?",
+        "answer": "253.0",
+        "imag": "27732.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the total electricity produced in 1963 in Poland and Portugal greater than the difference between the total electricity produced in 1961 in Poland and Portugal ?",
+        "answer": "Yes",
+        "imag": "31112.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Does the graph contain grids ?",
+        "answer": "No",
+        "imag": "18644.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the number of fixed telephone subscriptions in Italy in 1985 less than that in 1988 ?",
+        "answer": "Yes",
+        "imag": "27669.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Where does the legend appear in the graph ?",
+        "answer": "center right",
+        "imag": "20131.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Is the difference between the amount of ict goods exports in 2003 and 2005 greater than the difference between any two years ?",
+        "answer": "Yes",
+        "imag": "15023.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "What is the average value added by agriculture sector per year ?",
+        "answer": "56309270933.333336",
+        "imag": "21783.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "Are the number of bars on each tick of the X-axis equal ?",
+        "answer": "Yes",
+        "imag": "29315.png",
+        "imag_path": "./plotQA"
+    },
+    {
+        "query": "How many legend labels are there ?",
+        "answer": "4",
+        "imag": "13072.png",
+        "imag_path": "./plotQA"
+    }
+]
